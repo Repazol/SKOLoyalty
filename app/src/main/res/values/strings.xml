@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SKO Loyalty</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_reload">Reload</string>
+    <string name="action_prev">Pred</string>
+    <string name="action_next">Next.</string>
+
+    <string name="action_exit">Exit</string>
+    <string name="password_settings">Укажите код:</string>
+    <string name="password_settings1">Укажите филиал:</string>
+    <string name="password_settings2">Укажите место:</string>
+    <string name="password_settings3">Пользователь(e-mail):</string>
+    <string name="password_settings4">Пароль:</string>
+    <string name="save_settings">Сохранить</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="hidebutton">Скрыть надпись Settings</string>
+    <string name="SettButton">Settings</string>
+
+</resources>
